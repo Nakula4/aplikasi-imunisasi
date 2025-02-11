@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466468445341",
+    "project_id": "imunisasiku-1abc0",
+    "storage_bucket": "imunisasiku-1abc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466468445341:android:0cc7bbd9f5f5b6ae3f4874",
+        "android_client_info": {
+          "package_name": "com.example.imunisasiku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ70A-aySIOVW2WiI_IP4HQ08SFVP097E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
