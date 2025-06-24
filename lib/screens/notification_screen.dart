@@ -36,7 +36,7 @@ class Notif extends StatelessWidget {
               ),
               SizedBox(height: 16.0), // Jarak antara judul dan isi
               Text(
-                'Ini adalah pesan notifikasi yang modern dan kekinian.',
+                'Tidak ada Notifikasi',
                 style: TextStyle(
                   fontSize: 16.0,
                   color: Colors.grey[600],
